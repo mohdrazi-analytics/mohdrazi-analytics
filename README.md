@@ -91,15 +91,35 @@ I enjoy working with data to understand business problems, uncover insights, and
 
 
 
+
 ## 📫 Connect With Me
 
 <p align="center">
-
-<a href="mailto:mohdrazi739@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="mailto:mohdrazi739@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/mohdrazi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
+
+<p align="center">
+  <b>💬 Open to collaboration, data projects, and new opportunities</b>
+</p>
+
+<p align="center">
+  <i>Let's connect, collaborate, and turn data into meaningful insights 🚀</i>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>If you find my work useful, consider giving my repositories a star!</b> ⭐
+</p>
+
 
 ---
 
