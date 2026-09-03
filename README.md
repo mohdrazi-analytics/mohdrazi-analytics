@@ -114,9 +114,12 @@ I'm currently expanding from **Data Analytics & BI into Data Engineering**, focu
 
 <p align="center">
 
-<a href="mailto:mohdrazi739@gmail.com">
-  <img src="https://img.shields.io/badge/mohdrazi739%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: mohdrazi739@gmail.com"/>
+<a href="mailto:mohdrazi739@gmail.com" title="mohdrazi739@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
+
+
 
 
 
