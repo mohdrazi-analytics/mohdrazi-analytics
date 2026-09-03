@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohdrazi-analytics/mohdrazi-analytics/main/github-banner.png" alt="Mohd Razi Data Analytics Banner" width="100%">
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Mohd Razi
