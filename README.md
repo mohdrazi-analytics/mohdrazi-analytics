@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="./github-banner.png" width="100%" />
-</p>
+
 <div align="center">
 
-# 👋 Hi, I'm Mohd Razi
+<h1 align="center">
+  👋 Hi, I'm Mohd Razi
+</h1>
 
 ### 📊 Data Analyst → Data Engineer
 
