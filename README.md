@@ -1,15 +1,20 @@
 <p align="center">
+  <h1 align="center">👋 Hi, I'm Mohd Razi</h1>
+</p>
+
+
+<p align="center">
   <img 
     src="https://raw.githubusercontent.com/mohdrazi-analytics/mohdrazi-analytics/main/github-banner.png"
     alt="Mohd Razi Data Analytics Banner"
-    width="100%"
+    width="120%"
     height="180"
   >
 </p>
 
 <div align="center">
 
-# 👋 Hi, I'm Mohd Razi
+
 
 ### 📊 Data Analyst | BI Developer | Aspiring Data Engineer
 
