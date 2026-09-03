@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohdrazi-analytics/mohdrazi-analytics/main/github-banner.png" alt="Mohd Razi Data Analytics Banner" width="100%">
+  <img 
+    src="https://raw.githubusercontent.com/mohdrazi-analytics/mohdrazi-analytics/main/github-banner.png"
+    alt="Mohd Razi Data Analytics Banner"
+    width="100%"
+    height="180"
+  >
 </p>
 
 <div align="center">
