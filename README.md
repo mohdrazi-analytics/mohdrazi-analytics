@@ -44,10 +44,18 @@ I enjoy working with data to understand business problems, uncover insights, and
 ### 🐍 Python & Data
 
 <p align="left">
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
 </p>
+
 
 ### 🗄️ Databases
 
@@ -70,120 +78,18 @@ I enjoy working with data to understand business problems, uncover insights, and
 ## 📚 Currently Learning
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
 
 </p>
 
----
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohdrazi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdrazi&layout=compact&hide_border=true&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mohdrazi&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdrazi&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohdrazi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📊 My Data Journey
-
-<div align="center">
-
-```text
-                    DATA ANALYTICS
-                          │
-          ┌───────────────┼───────────────┐
-          ↓               ↓               ↓
-         SQL          Power BI          Python
-          │               │               │
-          ↓               ↓               ↓
-     Data Analysis     DAX / BI        Pandas
-          │               │               │
-          └───────────────┼───────────────┘
-                          ↓
-                    ETL / ELT
-                          ↓
-                  Data Warehousing
-                          ↓
-                  Data Engineering
-```
-
-</div>
-
----
-
-## 🎯 Career Direction
-
-```text
-Data Analytics
-      ↓
-Business Intelligence
-      ↓
-ETL / Data Transformation
-      ↓
-Data Warehousing
-      ↓
-Big Data Processing
-      ↓
-Data Engineering
-```
-
-My long-term goal is to become a strong **Data Engineer** while maintaining a solid foundation in **analytics and business intelligence**.
-
----
-
-## 📌 Areas of Interest
-
-* 📊 Data Analytics
-* 📈 Business Intelligence
-* 🧮 Data Modeling
-* 🗄️ SQL & Databases
-* 🔄 ETL / ELT
-* 🏗️ Data Warehousing
-* ⚡ Big Data
-* ☁️ Cloud Data Platforms
-* 🔧 Data Pipelines
-
----
 
 ## 📫 Connect With Me
 
