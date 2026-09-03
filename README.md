@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Mohd Razi 👋
 
-<!--
-**mohdrazi-analytics/mohdrazi-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | SQL | Power BI | DAX | Python
 
-Here are some ideas to get you started:
+I’m passionate about working with data, solving business problems, and turning raw data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently building my skills in data analytics and expanding my knowledge toward data engineering.
+
+---
+
+## 🧑‍💻 About Me
+
+* 📊 Interested in Data Analytics and Business Intelligence
+* 🗄️ Working with SQL and relational databases
+* 📈 Building analytical solutions with Power BI and DAX
+* 🐍 Using Python and Pandas for data analysis
+* 🧮 Interested in data transformation and analytical problem-solving
+* 🚀 Continuously learning modern data technologies
+
+---
+
+## 🛠️ Skills
+
+### Data Analytics
+
+* SQL
+* Power BI
+* DAX
+* Python
+* Pandas
+
+### Database
+
+* SQL Server
+
+### Data Concepts
+
+* Data Cleaning
+* Data Transformation
+* Data Analysis
+* Data Visualization
+* Time Series Analysis
+* Data Modeling
+
+---
+
+## 📚 Currently Learning
+
+* Apache Spark
+* Databricks
+* Snowflake
+* dbt
+* Microsoft Fabric
+* Data Engineering
+
+---
+
+## 🎯 Career Goal
+
+To grow from a Data Analyst into a skilled Data Engineer by building strong foundations in analytics, data processing, databases, and modern data platforms.
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: Coming Soon
+* Email: Coming Soon
