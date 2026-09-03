@@ -4,7 +4,7 @@
 
 ### 📊 Data Analyst → Data Engineer
 
-**SQL • Power BI • DAX • Python • Pandas**
+**SQL • Power BI • DAX • Python • Microsoft Fabric • Pandas**
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=mohdrazi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
